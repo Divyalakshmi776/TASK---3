@@ -8,6 +8,7 @@ It allows users to manage tasks — add, complete, and delete them easily.
 🚀 Features
 
 
+
 🔹 ➕ Add new tasks
 
 🔹 ✅ Mark tasks as completed
@@ -19,7 +20,9 @@ It allows users to manage tasks — add, complete, and delete them easily.
 🔹 💾 Optional local storage support
 
 
+
 🛠️ Technologies Used
+
 
 
 🔹 HTML – Page structure
@@ -28,7 +31,9 @@ It allows users to manage tasks — add, complete, and delete them easily.
 
 🔹 JavaScript – Logic and interactivity
 
+
 📁 Files in This Project
+
 
 
 🔹 index.html – Main webpage
@@ -36,6 +41,7 @@ It allows users to manage tasks — add, complete, and delete them easily.
 🔹 style.css – Styling file
 
 🔹 script.js – JavaScript logic
+
 
 
 ▶️ How to Use
@@ -50,6 +56,7 @@ It allows users to manage tasks — add, complete, and delete them easily.
 🔹 Click a task to mark it as done
 
 🔹 Click ❌ to delete a task
+
 
 
 💡 Future Enhancements
